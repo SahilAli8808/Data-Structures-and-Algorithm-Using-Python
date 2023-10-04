@@ -1,2 +1,4 @@
-if i < N-1 and lookup[S[i]] < lookup[S[i+1]]:
-                #         result -= lookup[S[i]]
+# Example 2
+# a2 = "allergy"
+# b2 = "allergic"
+# print(isAnagram(a2, b2))  # Output: False
