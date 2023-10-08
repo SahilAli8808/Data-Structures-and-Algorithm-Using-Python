@@ -25,6 +25,7 @@ class Linkedlist:
             current = current.nextNode
         current.nextNode = new_node  # Set the new node as the next of the last node
         print(f"current node is {current.nextNode}")
+        print(f"self head node is {self.head.data}")
 
     def display(self):
         current = self.head
